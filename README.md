@@ -8,9 +8,11 @@
 
 ## 👨‍💻 About Me  
 
-I’m a **First‑Class Computer Engineering graduate** based in London, passionate about creating practical, user‑focused software solutions.  
-My interests span **AI/ML, full‑stack web development, and IoT systems**, where I enjoy turning complex problems into elegant, scalable applications.  
-I thrive in collaborative environments, value clean code and maintainability, and aim to contribute to innovative teams building impactful technology.  
+I’m Saumya Patel, recently graduated with First Class honours in Computer Engineering from the University of Greenwich. My main programming language is **Python**, which I use to build AI‑powered summarisation tools, automation scripts, and data‑driven web applications. Through Python, I’ve explored **machine learning, generative AI, natural language processing, data handling, and backend development with FastAPI and Flask**.
+
+I’m also fluent in **JavaScript, React, C++, Java, and SQL,** giving me a balanced understanding of both frontend interactivity and backend logic. On the systems side, I’ve worked extensively in **Linux environments**, developed for **Raspberry Pi, Arduino, and BeagleBone**, and gained hands‑on experience with **IoT integration, networking (Cisco), and embedded systems**.
+
+I value simplicity, persistence, and clear communication—principles that shape how I write code, collaborate with teams, and turn ideas into reliable solutions. I’m eager to join a team where I can keep learning, contribute to scalable products, and grow as a Python engineer.
 
 ---
 ## 🛠️ Tech Stack  
